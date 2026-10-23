@@ -1,0 +1,9 @@
+{
+  "name": "comfortable-night-vision-21",
+  "version": "1.0.0",
+  "factorio_version": "2.1",
+  "title": "Comfortable Night Vision 2.1",
+  "author": "npanuhin",
+  "description": "When using the nightvision equipment, the color tone will stay the same as at sunset instead of changing into the hard on the eye desaturated one.\n\n2.1 port of the original mod by plexpt.",
+  "dependencies": []
+}
