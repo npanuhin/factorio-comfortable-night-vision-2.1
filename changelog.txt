@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 25. 10. 2026
+  Features:
+    - Added startup setting to change the color lookup table (sunset, dawn, neutral, vanilla).
+
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 24. 10. 2026
+  Locale:
+    - Added localizations for all supported languages.
